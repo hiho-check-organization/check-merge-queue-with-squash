@@ -1,0 +1,1 @@
+# check-merge-queue-with-squash
