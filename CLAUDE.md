@@ -18,3 +18,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - マージ方法に関するリポジトリ設定の変更
 - 異なる設定下でのマージキューの動作確認
 - 期待される動作と実際のマージ結果の比較検証
+
+## 作業メモ
+
+READMEを読みました。これから検証シナリオを進めていきます。
